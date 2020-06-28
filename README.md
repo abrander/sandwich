@@ -1,7 +1,7 @@
 Sandwich
 --------
 
-Because, XKCD.
+Because, [XKCD](https://xkcd.com/149/).
 
 ```
 (0) [   25ms] nuc8:~/src/github.com/abrander/sandwich []$ make me a sandwich
