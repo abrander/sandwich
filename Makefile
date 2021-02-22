@@ -1,4 +1,4 @@
-.PHONY: me a sandwich .sandwich
+.PHONY: me a sandwich sandwich.
 
 me:
 	@/bin/true
